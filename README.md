@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un prepcourse del modulo 2 de henry
+Este repositorio es una prueba de como crear un repositorio y clonarlo desde githib a mi computadora.
